@@ -31,6 +31,12 @@ Hoje busco uma carreira mais estável e ligada à tecnologia que sempre esteve a
   </a>
 </p>
 
+<br>
+<div align="center">
+    <a href="https://github.com/mandytrajano90">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandytrajano90&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+</div>
 
 ### Siga-me, você pode encontrar de tudo um pouco :blush:
  <div> 
@@ -39,7 +45,5 @@ Hoje busco uma carreira mais estável e ligada à tecnologia que sempre esteve a
   <a href="mailto:mandytrajano90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<!---
-MandyTrajano90/MandyTrajano90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
