@@ -21,7 +21,7 @@ Hoje busco uma carreira mais estável e ligada à tecnologia que sempre esteve a
   <li>🖥️ Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>. Gosto também de pesquisar sobre design, deixando a aplicação mais bonita com o uso de bibliotecas como <strong>Bootstrap e Tailwind CSS</strong>.</li>
   <li>🤖 Curto <strong>fazer testes unitários ou de integração</strong>. É incrível ver um nova funcionalidade sendo testada antes de ir para produção! :heart_eyes: </li>
   <li>👨🏻‍💻 Atualmente estou focada em aprender mais a respeito de <strong>back-end</strong> e principalmente da linguagem que eu escolhi me aprofundar mais: <strong>Python</strong>. 
-    No início da minha trajetória em back, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC e SOLID </strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
+    No início da minha trajetória em back, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC e SOLID</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
 </ul>
 
 ### Tecnologias e Ferramentas :computer:
