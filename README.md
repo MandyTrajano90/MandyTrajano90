@@ -5,11 +5,11 @@
 </div>
     <br>
 <div align="justify">
-Desde criança sempre gostei muito de computador, navegar horas na internet,  videogames, enfim, tecnologia no geral. 
+Desde criança sempre gostei muito de computador, navegar horas na internet, videogames, enfim, tecnologia no geral. 
 
 Ao longo da minha vida profissional tive conhecimentos em diversas áreas como Ciências e Empreendendorismo, entre outras. 
 
-Atualmente, sou Desenvolvedora Full-Stack formada pela Trybe e estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do SENAC.  Tenho me capacitado cada dia mais a fim de solucionar problemas e otimizar aplicações.
+Atualmente, sou Desenvolvedora Full-Stack formada pela Trybe e estudante do curso Sistemas da Computação da Universidade Federal Fluminense (UFF).  Tenho me capacitado cada dia mais a fim de solucionar problemas e otimizar aplicações.
 
 Hoje busco uma carreira mais estável e ligada à tecnologia que sempre esteve ao meu redor. 
 </div>
